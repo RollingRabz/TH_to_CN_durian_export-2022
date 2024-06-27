@@ -86,14 +86,6 @@ the R-square values, LSTM model gives the source variable a better description o
 dependent variable. Therefore, it is clear that Long Short-Term Memory model has better 
 performance in applying the forecasting of durian export volume from Thailand to China.
 
-In this project there was a problem with data values and variables that are used the 
-data values are quite different. Which, when used in forecasting, results in very poor results. 
-The range of the data may need to be adjusted to reduce the variance for increase the 
-forecasting efficiency of each model. It may also be necessary to study more about the factors 
-affecting the export volume of durian to increase the number of initial variables to be able 
-for describe the dependent variables better and fine-tuning the parameters in the model to 
-increase efficiency Including the study of using other models to bring forecasts. It could be a 
-good alternative to optimizing forecasts to be able to bring forecast results including the 
-model used for those involved to be able to use it for further benefits.
+In this project, there was a problem with the data values and variables used; the data values were quite different. When used in forecasting, this resulted in very poor outcomes. The range of the data may need to be adjusted to reduce the variance and increase the forecasting efficiency of each model. Additionally, it may be necessary to study more about the factors affecting the export volume of durian to increase the number of initial variables, thereby better describing the dependent variables. Fine-tuning the parameters in the model to increase efficiency is also important, including the study of using other models for forecasts. This could be a good alternative for optimizing forecasts, enabling the model used to provide results that stakeholders can utilize for further benefits.
 
 
