@@ -56,7 +56,7 @@ models.
 ![ERR](/Pic/MultiError.png)
 ### Compare predict and actual value with LSTM (Long Short-Term Memory) model at 100 epochs, 1 batch sizes and 1 dense with using Adam method as an optimizer.
 ![LSTM](/Pic/LSTM3.png)
-![Err2](/Pic/LSTM3_err.png)
+![Err2](/Pic/LSTM3_err.PNG)
 
 The objective of this project is to compare the accuracy of the prediction model 
 between Multi linear regression and LSTM. Firstly, after we are gathering all the data, we need 
